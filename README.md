@@ -9,6 +9,7 @@ COMPONENTS NEEDED:
 | ------------- | ------------- |
 | RP2040 Zero | [Aliexpress](https://s.click.aliexpress.com/e/_okoF943) |
 | 6x6x4.3 Tactile Push Button Switches | [Aliexpress](https://s.click.aliexpress.com/e/_oBOFdpZ) |
+| Kailh Low Profile Choc Switches | [Aliexpress](https://s.click.aliexpress.com/e/_opeXaZt) |
 
 ![Screenshot 2025-05-07 18-41-26](https://github.com/user-attachments/assets/fee73c79-86c1-4003-9ce5-e7100ba2b9f1)
 
