@@ -1,5 +1,6 @@
 # Cardmacropad
-If you're reading this, I probably handed you a business card at some point. Oh it was so nice to meet you whoever you are! Lets turn that business card into something useful, like a keyboard macropad.
+If you're reading this, I probably handed you a business card at some point. Oh it was so nice to meet you probably! Lets turn that business card into something useful, like a keyboard macropad.
+<br><br>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/8809f8bc-3516-4df1-bf93-5fd57bdb9574" />
 
 # COMPONENTS REQUIRED:
@@ -17,21 +18,26 @@ If you're reading this, I probably handed you a business card at some point. Oh 
 | Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://s.click.aliexpress.com/e/_oFkTKZv) |
 | Low Profile Keycaps | [Amazon](https://amzn.to/42BwSVh) |
 
-![Screenshot 2025-05-07 18-43-35](https://github.com/user-attachments/assets/6166fe2a-0523-43f8-b454-d66db0804f29)
-![Screenshot 2025-05-07 18-43-49](https://github.com/user-attachments/assets/7cc85317-1e44-46dc-a575-82b3483d6a3c)
-<img width="961" alt="image" src="https://github.com/user-attachments/assets/3f97d2c7-7092-4075-8b6c-c8494174ae86" />
+<img width="33%" alt="image" src="https://github.com/user-attachments/assets/6166fe2a-0523-43f8-b454-d66db0804f29" />
+<img width="33%" alt="image" src="https://github.com/user-attachments/assets/7cc85317-1e44-46dc-a575-82b3483d6a3c" />
+<img width="33%" alt="image" src="https://github.com/user-attachments/assets/3f97d2c7-7092-4075-8b6c-c8494174ae86" />
 
 
 # GET YOUR TOOLS
+
+• USB-C cable <br>
+• Soldering Iron <br>
+• Solder <br>
+• A safe surface to solder on <br>
 
 ![Screenshot 2025-05-07 18-46-08](https://github.com/user-attachments/assets/a1b1d15f-75e1-4723-b4e6-0bbb79d322fe)
 
 # START THE ASSEMBLY
 
-1) Place the PIzero and solder two of the corners for stability. I would recommend placing the solder on the PCB portion and dragging it onto the PIzero
+1) Place the PI-Zero flat onto the PCB and solder two of the corners for stability. After placing the PCB, I would recommend melting the solder onto the exposed contact on the PCB, then dragging it onto the PI-Zero
 ![Screenshot 2025-05-07 18-48-15](https://github.com/user-attachments/assets/5f0c989f-eda8-4d8d-b280-e6a87d48ceab)
 
-2) Solder the rest of the pizero's contacts onto the board
+2) Solder the rest of the PI-Zero's contacts onto the board
 ![Screenshot 2025-05-07 18-51-00](https://github.com/user-attachments/assets/f94f2fd9-ca0b-4aed-930d-0c122610d875)
 
 3) Place the tact switches through the holes on the board
@@ -52,7 +58,7 @@ If you're reading this, I probably handed you a business card at some point. Oh 
 ![Screenshot 2025-05-07 19-01-54](https://github.com/user-attachments/assets/4ffbf8c6-1ce0-4ee9-90f4-b7f0acccb71c)
 ![Screenshot 2025-05-07 19-02-04](https://github.com/user-attachments/assets/ab62f474-ed9d-44a8-90bc-2003be3472ed)
 
-8) Flip the board over and solder the holes on the back (GLOB IT ON)
+8) Flip the board over and solder the metal pins on the back (GLOB IT ON). Do NOT solder the plastic nubs (seen in red here)
 ![Screenshot 2025-05-07 19-04-22](https://github.com/user-attachments/assets/82997645-4072-47d6-8bdb-13899ea26203)
 
 # Congrats! You have completed the assembly
@@ -60,10 +66,10 @@ If you're reading this, I probably handed you a business card at some point. Oh 
 
 # NOW FOR THE FIRMWARE
 
-1) Connect the macropad to a computer with a USB-C cable WHILE HOLDING the BOOT button on the PiZero.
+1) Connect the macropad to a computer with a USB-C cable WHILE HOLDING the BOOT button on the PI-Zero.
 ![Screenshot 2025-05-07 19-07-53](https://github.com/user-attachments/assets/fec8fff5-d5cd-4f77-b5ac-f1f2fcd09a04)
 
-2) If done correctly, it will show up as a drive on your computer. If this does not happen, hold the BOOT button, and while holding the BOOT button and press the RESET button one time.
+2) If done correctly, it will show up as a drive on your computer. If this does not happen, hold the BOOT button, and while holding the BOOT button press the RESET button one time.
 ![Screenshot 2025-05-07 19-09-08](https://github.com/user-attachments/assets/a632cb60-43d0-4080-942b-c036f9c10f16)
 
 3) Drag over the [GP2040-CE_0.7.11_WaveshareZero.uf2 firmware linked here](https://github.com/bobwulff/Cardmacropad/blob/ba1f3849e7113883848c1dc979786deaaa10a982/GP2040-CE_0.7.11_WaveshareZero.uf2)
@@ -77,7 +83,7 @@ If you're reading this, I probably handed you a business card at some point. Oh 
 1) Hold the SW5 button (bottom right tact switch) and press the RESET button one time.
 ![Screenshot 2025-05-07 19-39-52](https://github.com/user-attachments/assets/61e69281-5e69-42cf-aaaa-450de9b8a4b5)
 
-2) Next, head to (http://192.168.7.1)[http://192.168.7.1] in a web browser
+2) Next, head to http://192.168.7.1 in a web browser
 ![Screenshot 2025-05-07 19-40-35](https://github.com/user-attachments/assets/ce938147-1482-4a9d-b2ce-24aed6181f5f)
 
 3) Click CONFIGURATION > Data Backup and Restoration
@@ -92,7 +98,7 @@ If you're reading this, I probably handed you a business card at some point. Oh 
 6) Head to SETTINGS > INPUT MODE > and change inputs 1-10 to be your desired buttons. Below is an example of what I have mine set to.
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/4898eea9-0fad-4c62-9569-310b63b0b542" />
 
-7) Here is a map of what each button will be labeled as in the GP2040 keyboard mapping (the GENERIC column). Feel free to map each button to whatever you want
+7) Here is a map of what each button will be labeled as in the GP2040 keyboard mapping (you want to look at the GENERIC column). Feel free to map each button to whatever you'd like
 ![Screenshot 2025-05-07 19-43-10](https://github.com/user-attachments/assets/2a16a6ae-4a37-4ebc-a544-a8efe78fdfd7)
 
 # SUCCESS!!! You now have a MACROPAD!
