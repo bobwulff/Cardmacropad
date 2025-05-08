@@ -1,13 +1,27 @@
 # Cardmacropad
 Business card that can be easily turned into a keyboard Macro Pad
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/8809f8bc-3516-4df1-bf93-5fd57bdb9574" />
 
-components needed
+
+COMPONENTS NEEDED:
+
+| Component | Link |
+| ------------- | ------------- |
+| RP2040 Zero | [Aliexpress](https://s.click.aliexpress.com/e/_okoF943) |
+| 6x6x4.3 Tactile Push Button Switches | [Aliexpress](https://s.click.aliexpress.com/e/_oBOFdpZ) |
+
 ![Screenshot 2025-05-07 18-41-26](https://github.com/user-attachments/assets/fee73c79-86c1-4003-9ce5-e7100ba2b9f1)
 
 optional
+| Component | Link |
+| ------------- | ------------- |
+| Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://s.click.aliexpress.com/e/_oFkTKZv) |
+| WASD Keycaps | [Amazon](https://amzn.to/42BwSVh) |
 
 ![Screenshot 2025-05-07 18-43-35](https://github.com/user-attachments/assets/6166fe2a-0523-43f8-b454-d66db0804f29)
 ![Screenshot 2025-05-07 18-43-49](https://github.com/user-attachments/assets/7cc85317-1e44-46dc-a575-82b3483d6a3c)
+<img width="961" alt="image" src="https://github.com/user-attachments/assets/3f97d2c7-7092-4075-8b6c-c8494174ae86" />
+
 
 tools
 
@@ -82,6 +96,7 @@ Here is a map of what each button will be labeled as in the GP2040 keyboard mapp
 SUCCESS!!! You now have a MACROPAD!
 
 3D printable case coming soon....
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/01fdb359-1e46-43b4-9de2-70ca8137c4ed" />
 
 
 
