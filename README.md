@@ -98,8 +98,8 @@ If you're reading this, I probably handed you a business card at some point. Oh 
 6) Head to SETTINGS > INPUT MODE > and change inputs 1-10 to be your desired buttons. Below is an example of what I have mine set to.
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/4898eea9-0fad-4c62-9569-310b63b0b542" />
 
-7) Here is a map of what each button will be labeled as in the GP2040 keyboard mapping (you want to look at the GENERIC column). Feel free to map each button to whatever you'd like
-![Screenshot 2025-05-07 19-43-10](https://github.com/user-attachments/assets/2a16a6ae-4a37-4ebc-a544-a8efe78fdfd7)
+7) Here is a map of what each button will be labeled as in the GP2040 keyboard mapping page (you want to look at the GENERIC column). Feel free to map each button to whatever you'd like
+![image](https://github.com/user-attachments/assets/9f7936fc-cc1c-4653-a046-603371a32c1b)
 
 # SUCCESS!!! You now have a MACROPAD!
 
