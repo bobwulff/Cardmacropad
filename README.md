@@ -1,5 +1,5 @@
 # Cardmacropad
-Business card that can be easily turned into a keyboard Macro Pad
+If you're reading this, I probably handed you a business card at some point. Oh it was so nice to meet you whoever you are! Lets turn that business card into something useful, like a keyboard macropad.
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/8809f8bc-3516-4df1-bf93-5fd57bdb9574" />
 
 COMPONENTS REQUIRED:
