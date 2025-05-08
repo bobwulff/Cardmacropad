@@ -17,7 +17,7 @@ OPTIONAL:
 | Component | Link |
 | ------------- | ------------- |
 | Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://s.click.aliexpress.com/e/_oFkTKZv) |
-| WASD Keycaps | [Amazon](https://amzn.to/42BwSVh) |
+| Low Profile Keycaps | [Amazon](https://amzn.to/42BwSVh) |
 
 ![Screenshot 2025-05-07 18-43-35](https://github.com/user-attachments/assets/6166fe2a-0523-43f8-b454-d66db0804f29)
 ![Screenshot 2025-05-07 18-43-49](https://github.com/user-attachments/assets/7cc85317-1e44-46dc-a575-82b3483d6a3c)
