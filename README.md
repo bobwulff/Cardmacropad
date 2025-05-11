@@ -37,7 +37,7 @@ You can also purchase [your own PCB here if you'd like](https://www.pcbway.com/p
 
 # START THE ASSEMBLY
 
-1) Place the PI-Zero flat onto the PCB and solder two of the corners for stability. After placing the PCB, I would recommend melting the solder onto the exposed contact on the PCB, then dragging it onto the PI-Zero <br><br>
+1) Place the PI-Zero flat onto the PCB and solder two of the corners for stability. When soldering, I would recommend melting the solder onto the exposed contact on the PCB, then dragging it onto the PI-Zero's contacts with the soldering iron <br><br>
 ![Screenshot 2025-05-07 18-48-15](https://github.com/user-attachments/assets/5f0c989f-eda8-4d8d-b280-e6a87d48ceab)
 
 2) Solder the rest of the PI-Zero's contacts onto the board <br><br>
