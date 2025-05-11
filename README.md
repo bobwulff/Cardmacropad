@@ -7,19 +7,19 @@ You can also purchase [your own PCB here if you'd like](https://www.pcbway.com/p
 <br><br>
 
 # COMPONENTS REQUIRED:
-| Component | Link |
-| ------------- | ------------- |
-| RP2040 Zero | [Aliexpress](https://s.click.aliexpress.com/e/_okoF943) |
-| 6x6x4.3 Tactile Push Button Switches | [Aliexpress](https://s.click.aliexpress.com/e/_oBOFdpZ) |
-| Kailh Low Profile Choc Switches | [Aliexpress](https://s.click.aliexpress.com/e/_opeXaZt) |
+| Component | Recommended Link | Alt Link |
+| ------------- | ------------- | ------------- |
+| RP2040 Zero | [Aliexpress](https://s.click.aliexpress.com/e/_okoF943) | [Amazon](https://amzn.to/3ZdtdvE) |
+| 6x6x4.3 Tactile Push Button Switches | [Aliexpress](https://s.click.aliexpress.com/e/_oEwUhSf) | [Amazon](https://amzn.to/3GMue7G) |
+| Kailh Low Profile Choc Switches | [Aliexpress](https://s.click.aliexpress.com/e/_onZQ1ER) | [Amazon](https://amzn.to/3ZcWPtb) |
 
 ![Screenshot 2025-05-07 18-41-26](https://github.com/user-attachments/assets/fee73c79-86c1-4003-9ce5-e7100ba2b9f1)
 
 # OPTIONAL:
 | Component | Link |
 | ------------- | ------------- |
-| Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://s.click.aliexpress.com/e/_oFkTKZv) |
-| Low Profile Keycaps | [Amazon](https://amzn.to/42BwSVh) |
+| Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://s.click.aliexpress.com/e/_oFkTKZv) | [Amazon](https://amzn.to/44trzcY) |
+| Low Profile Keycaps | [Aliexpress](https://s.click.aliexpress.com/e/_oorbBj1) | [Amazon](https://amzn.to/42BwSVh) | 
 
 <img width="33%" alt="image" src="https://github.com/user-attachments/assets/6166fe2a-0523-43f8-b454-d66db0804f29" />
 <img width="33%" alt="image" src="https://github.com/user-attachments/assets/7cc85317-1e44-46dc-a575-82b3483d6a3c" />
