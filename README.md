@@ -16,8 +16,8 @@ You can also purchase [your own PCB here if you'd like](https://www.pcbway.com/p
 ![Screenshot 2025-05-07 18-41-26](https://github.com/user-attachments/assets/fee73c79-86c1-4003-9ce5-e7100ba2b9f1)
 
 # OPTIONAL:
-| Component | Link |
-| ------------- | ------------- |
+| Component | Recommended Link | Alt Link |
+| ------------- | ------------- | ------------- |
 | Kailh Low Profile Hot-swappable PCB Socket | [Aliexpress](https://s.click.aliexpress.com/e/_oFkTKZv) | [Amazon](https://amzn.to/44trzcY) |
 | Low Profile Keycaps | [Aliexpress](https://s.click.aliexpress.com/e/_oorbBj1) | [Amazon](https://amzn.to/42BwSVh) | 
 
