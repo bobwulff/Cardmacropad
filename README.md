@@ -104,6 +104,8 @@ You can also purchase [your own PCB here if you'd like](https://www.pcbway.com/p
 7) Here is a map of what each button will be labeled as in the GP2040 keyboard mapping page (you want to look at the GENERIC column). Feel free to map each button to whatever you'd like <br><br>
 ![image](https://github.com/user-attachments/assets/9f7936fc-cc1c-4653-a046-603371a32c1b)
 
+8) If at this point you run into any issues, head over to the "GPIO Pin Mapping" page and click "GPIO Pin viewer" to see if the buttons work and what they are currently mapped to. You can also use this page to re-map them if need be.
+
 # SUCCESS!!! You now have a MACROPAD!
 
 3D printable case coming soon.... <br><br>
