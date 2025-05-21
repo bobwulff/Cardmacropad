@@ -98,7 +98,7 @@ You can also purchase [your own PCB here if you'd like](https://www.pcbway.com/p
 5) Look at the top right corner of the web-page and change this dropdown to GENERIC <br><br>
 ![Screenshot 2025-05-07 19-20-32](https://github.com/user-attachments/assets/58fce706-93e0-4888-b1d7-04615ef1f2af)
 
-6) Head to SETTINGS > INPUT MODE > and change inputs 1-10 to be your desired buttons. Below is an example of what I have mine set to. <br><br>
+6) Head to SETTINGS > INPUT MODE > and change inputs 1-10 to be your desired buttons. Below is an example of what I have mine set to. When you're done, make sure to click SAVE at the bottom and then REBOOT in the top right corner. <br><br>
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/4898eea9-0fad-4c62-9569-310b63b0b542" />
 
 7) Here is a map of what each button will be labeled as in the GP2040 keyboard mapping page (you want to look at the GENERIC column). Feel free to map each button to whatever you'd like <br><br>
