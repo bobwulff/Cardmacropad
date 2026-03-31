@@ -108,7 +108,13 @@ You can also purchase [your own PCB here if you'd like](https://www.pcbway.com/p
 
 # SUCCESS!!! You now have a MACROPAD!
 
-3D printable case files [available here](https://github.com/bobwulff/Cardmacropad/tree/16b7419801c9fb5cbdbb282ee85d4b39a7bb93ee/3D%20Printable%20Case) <br><br>
+3D printable case files [available here](https://github.com/bobwulff/Cardmacropad/tree/16b7419801c9fb5cbdbb282ee85d4b39a7bb93ee/3D%20Printable%20Case) <br>
+<br>
+| Component | Link |
+| ------------- | -------------
+| Heat Threaded Inserts | [Amazon](https://amzn.to/3Rn92r1) |
+| M2x6 screws | [Amazon](https://amzn.to/3GeJXMA) |
+<br>
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/01fdb359-1e46-43b4-9de2-70ca8137c4ed" />
 
 
